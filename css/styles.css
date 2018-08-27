@@ -1,0 +1,24 @@
+span .required{
+    text-color: red;
+}
+
+#businesslogo{
+    /* content:url('http://localhost/assignment2/images/blank-image');
+    width: "100px";
+    height: "100px"; */
+}
+
+#signin-body{
+    height: 100%;
+}
+
+body{
+    font-family: Lato;
+}
+h3{
+    float: left;
+}
+#logout{
+    position: absolute;
+    right: 0;
+}

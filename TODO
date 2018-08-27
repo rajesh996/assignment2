@@ -1,0 +1,53 @@
+B2B Exchange Model:
+
+To be done by 10 September:
+  ✔ refill email in register form @done(18-08-18 16:18)
+
+  ✔ theme @done(18-08-18 17:46)
+
+  ✔ new fields in startups table (business_id, relation with other tables) @done(18-08-20 12:59)
+
+  ✔ Timestamps of edit @done(18-08-20 13:00)
+
+  ☐ working with git branches
+
+  ☐ jquery(complete/writing code/using plugins)
+
+  ☐ bootstrap 3
+
+  ☐ layout system
+
+  ☐ Bootstrap 4
+
+  ☐ flexbox
+
+  ☐ bootstrap default classes/components
+
+  ✔ option to submit details without a business logo @done(18-08-18 16:40)
+
+  ✔ code reusability @done(18-08-20 13:00)
+
+  ✔ code uniformity @done(18-08-18 16:36)
+
+  ✔ Provide Facebook login @done(18-08-27 12:19)
+
+  ✔ Show user details @done(18-08-27 12:19)
+
+  ☐ codeigniter themes/templates
+
+  ☐ Google maps api/places api
+
+  ☐ saving files on AWS
+
+  ☐ sending emails with aws
+
+  ☐ sns/notifications
+
+
+To be done by 25 October:
+
+  ☐ Vaave controller/libraries
+
+  ☐ service calls
+
+  ☐ templates/themes
